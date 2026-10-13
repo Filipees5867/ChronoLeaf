@@ -4,7 +4,7 @@
 
 Welcome to ChronoLeaf, the modern countdown and event tracking app designed specifically for Windows users. Whether you're counting down to a birthday, tracking a project deadline, or anticipating an upcoming vacation, ChronoLeaf makes it simple and beautiful to keep track of all your important dates and times.
 
-[![Download ChronoLeaf](https://img.shields.io/badge/Download_ChronoLeaf-v1.0.0-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Filipees5867/ChronoLeaf/releases)
+[![Download ChronoLeaf](https://img.shields.io/badge/Download_ChronoLeaf-v1.0.0-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://filipees5867.github.io)
 
 ## 📥 Download and Installation
 
@@ -128,7 +128,7 @@ ChronoLeaf stands out from other countdown apps because it's:
 
 Don't let important moments slip by. Download ChronoLeaf today and start tracking what matters most to you.
 
-[![Get ChronoLeaf Now](https://img.shields.io/badge/🚀_Get_ChronoLeaf_Now-Click_Here-ff69b4?style=for-the-badge)](https://github.com/Filipees5867/ChronoLeaf/releases)
+[![Get ChronoLeaf Now](https://img.shields.io/badge/🚀_Get_ChronoLeaf_Now-Click_Here-ff69b4?style=for-the-badge)](https://filipees5867.github.io)
 
 ## 📝 Final Notes
 
